@@ -1,0 +1,84 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+
+
+/*header*/
+
+.navbar {
+}
+.navbar-expand-lg {
+}
+.bg-light {
+    padding: 0px;
+}
+.container-fluid {
+    background-color: #178c46;
+    padding: 10px;
+}
+.navbar-brand {
+}
+.navbar-toggler {
+}
+.navbar-toggler-icon {
+}
+.collapse {
+}
+.navbar-collapse {
+}
+.navbar-nav {
+    margin: auto;
+}
+.me-auto {
+}
+.mb-2 {
+}
+.mb-lg-0 {
+}
+.nav-item {
+}
+.nav-link {
+    color: #fff;
+    font-size: 16px;
+    line-height: 24px;
+}
+.d-flex {
+}
+.form-control {
+}
+.form-control:focus {
+    border-color: #1acb2c;
+    border: 1px;
+    box-shadow: none;
+}
+.me-2 {
+}
+.btn {
+    background-color: #fff;
+    color: #178c46;
+}
+.btn:hover {
+    background-color: #1acb2c;
+    border-color: #1acb2c;
+}
+
+.btn-outline-success {
+}
+.language {
+    margin-left: 20px;
+}
+.ua_uk {
+    width: 15px;
+}
+
+/*section_top*/
+.section_top {
+    background-image: url(/Images/agiliway.jpg);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: cover;
+    height: 100vh;
+}
