@@ -57,6 +57,20 @@
     border: 1px solid #178c46;
     box-shadow: none;
 }
+@media (max-width: 993px){
+    .nav-item {
+        margin: auto;
+    }
+    .nav-item + .nav-item{
+        margin: auto;
+    }
+    .form-control {
+        display: none;
+    }
+    .btn {
+        display: none;
+    }
+}
 .me-2 {
 }
 .btn {
