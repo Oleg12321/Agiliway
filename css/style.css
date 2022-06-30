@@ -16,7 +16,7 @@
     padding: 0px;
 }
 .container-fluid {
-    background-color: #178c46;
+    background-color: #ffffff;
     padding: 10px;
 }
 .navbar-brand {
@@ -40,32 +40,37 @@
 }
 .nav-item {
 }
+.nav-item + .nav-item {
+    margin-left: 50px;
+}
 .nav-link {
-    color: #fff;
-    font-size: 16px;
+    color: #178c46;
+    font-size: 18px;
     line-height: 24px;
 }
 .d-flex {
 }
 .form-control {
+    border: 1px solid #178c46;
 }
 .form-control:focus {
-    border-color: #1acb2c;
-    border: 1px;
+    border: 1px solid #178c46;
     box-shadow: none;
 }
 .me-2 {
 }
 .btn {
     background-color: #fff;
-    color: #178c46;
 }
 .btn:hover {
-    background-color: #1acb2c;
-    border-color: #1acb2c;
+    background-color: #fff;
+    border-color: #fff;
 }
 
 .btn-outline-success {
+}
+.search {
+    width: 20px;
 }
 .language {
     margin-left: 20px;
