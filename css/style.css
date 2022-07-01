@@ -75,6 +75,7 @@
 }
 .btn {
     background-color: #fff;
+    border: none;
 }
 .btn:hover {
     background-color: #fff;
